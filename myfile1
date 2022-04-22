@@ -1,3 +1,7 @@
 This is line 1.
 Line 2 added
+<<<<<<< HEAD
 line4 added from vm1 before pulling
+=======
+line 3 added from vm2
+>>>>>> e885a0f3a8a9ee99d9f72ff39f292e954f0edc4e
